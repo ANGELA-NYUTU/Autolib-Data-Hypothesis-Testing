@@ -1,4 +1,4 @@
-# Autolib-Data-Hypothesis-Testing
+# HYPOTHESIS TESTING
 AUTOLIB DATA ANALYSIS
 
 Last edited on: 24/09/2021
